@@ -8,13 +8,15 @@
         android:layout_height="wrap_content"
         android:text="Vacio"
         android:id="@+id/txtcorreo"
-        android:textSize="30dp"></TextView>
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimaryDark"></TextView>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Vacio"
         android:id="@+id/txtpassword"
-        android:textSize="30dp"></TextView>
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimaryDark"></TextView>
 
 </LinearLayout>
